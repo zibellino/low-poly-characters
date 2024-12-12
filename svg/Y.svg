@@ -1,0 +1,16 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg" width="10mm" height="15mm" viewBox="0 0 20 30">
+	<g fill="#000000" stroke="none">
+		<path d="
+			M 0 2
+			L 4 0
+			10 11
+			16 0
+			20 2
+			12 15
+			12 30
+			8 30
+			8 15
+			Z
+		"/>
+	</g>
+</svg>
